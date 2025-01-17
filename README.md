@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mangalan516
+- 👋 Hi, I’m @mangalan
 - 👀 I’m interested in Web application security
 - 🌱 I’m currently learning CompTIA's Security+ and Pentest+
 - 💞️ I’m looking to collaborate on Org repos for auditing
